@@ -1,3 +1,6 @@
 # Ignores hw1 folder
 hw1/
 
+# Ignores instructions files
+*instruction*
+
